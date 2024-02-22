@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/ravils"><img src="https://api.daily.dev/devcards/v2/b9iZShzqocXDBRFzl7fCt.png?type=default&r=cgo" width="356" alt="Ravil Safargaliev's Dev Card"/></a>
+<a href="https://app.daily.dev/ravils"><img src="./devcard.png" width="356" alt="Ravil Safargaliev's Dev Card"/></a>
 
 <!--
 **nellu-art/nellu-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
